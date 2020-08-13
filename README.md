@@ -2,7 +2,7 @@
 
 This repository is a project portfolio for the "Data Analyst" certification program by Udacity. This program prepares students for a career as a data analyst by helping them learn to organize data, uncover patterns and insights, draw meaningful conclusions and clearly communicate critical findings. Each project is associated with an important subject of data analysis, where students are required to work with a coach at Udacity to demonstrate the skills learned.
 
-These projects are not only designed to enhance the understanding of program material, but also provide a hands-on experience for students to develop proficiency in Python and its data analysis libraries (Numpy, Pandas, Matplotlib) and SQL. To complete the program, all project must be reviewed and approved by the coach.
+These projects are not only designed to enhance the understanding of program material, but also provide a hands-on experience for students to develop proficiency in Python and its data analysis libraries (NumPy, Pandas, Matplotlib) and SQL. To complete the program, all project must be reviewed and approved by the coach.
 
 Each folder in this repository is a collection of the working and data files for a project. The name of the folder starts with a subject of data analysis instructed in the program, followed by the title of the project associated with that subject. The coach's review of the project is saved as "Project_Review_by_Coach" in PDF format.
 
