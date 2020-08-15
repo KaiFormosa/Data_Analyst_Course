@@ -54,7 +54,7 @@ Skills/knowledge learned:
 - Gathering data from multiple sources, including programmatically downloading files and accessing data from APIs
 - Importing data of various file formats
 - Assessing data visually and programmatically
-- Identifying data quality issues, such as validity, accuracy, completeness, consistency, and uniformity, and categorize them using metrics
+- Identifying data quality issues, such as validity, accuracy, completeness, consistency and uniformity, and categorize them using metrics
 - Cleaning data
 
 ### Project: "WeRateDogs"
@@ -73,7 +73,7 @@ The three sources of data:
 Skills/knowledge learned:
 
 - Supplementing statistics with visualizations to build understanding of data
-- Choosing appropriate plots, limits, transformations and aesthetics to explore a dataset, allowing one to understand distributions of variables and relationships between features
+- Choosing appropriate plots, limits, transformations and aesthetics to explore a dataset, allowing one to understand distributions of variables and relationships among features
 - Using design principles to create effective visualizations for communicating findings to an audience
 
 ### Project: "Bike Sharing Service Data Analysis"
