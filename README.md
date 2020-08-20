@@ -59,7 +59,7 @@ Skills/knowledge learned:
 
 ### Project: "WeRateDogs"
 
-The subject of analysis for this project is WeRateDogs, a popular Twitter account that rates pet dogs with a humorous comment about the dog. Data on WeRateDogs are collected from three different sources and then cleaned before a final analysis on its contents and features.
+The subject of analysis for this project is WeRateDogs, a popular Twitter account that rates pet dogs with a humorous comment about the dog. The task is to find out what makes this Twitter account popular. Data on WeRateDogs are collected from three different sources and then cleaned before a final analysis on its contents and features.
 
 The three sources of data:
 - An archive dataset file of more than 5,000 tweets, which provides information on individual tweet id, text content of the tweet, reply status, re-tweet status, ratings, name and breed of the dog. The information about ratings, dog name and dog stage was extracted programmatically from the text content of the tweet for further cleaning   
